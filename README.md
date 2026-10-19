@@ -17,4 +17,4 @@
 ---
 
 ### 3. 기업가정신
-- **2026.09.18 발표**: [기업가정신 발표 자료](https://yellowcarrot.github.io/khu/261019_%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%EB%B0%9C%ED%91%9C.html)
+- **2026.09.19 발표**: [기업가정신 발표 자료](https://yellowcarrot.github.io/khu/260919_%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%EB%B0%9C%ED%91%9C.html)
